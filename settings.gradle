@@ -1,0 +1,3 @@
+include ':fcl'
+include ':app'
+rootProject.name = "FetchPhoneContacts"
